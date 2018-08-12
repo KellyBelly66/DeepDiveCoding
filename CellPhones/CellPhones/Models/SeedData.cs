@@ -41,7 +41,7 @@ namespace CellPhones.Models
                                       Model = "X",
                                       OS = "MacOS",
                                       ScreenSize = "2560 x 4000"
-
+                                  }
                                   },
 
                                   context.SaveChanges();
